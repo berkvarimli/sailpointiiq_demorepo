@@ -53,6 +53,6 @@ if (members != null &amp;&amp; !members.isEmpty()) {
     firstMember = (String) members.get(0);
 }
 
-log.error(firstMember);
+log.error(test);
 </Source>
 </Rule>
